@@ -1,0 +1,1 @@
+Warning: Invalid texture in material Material #27 (file: 'H:\HedghogTeam\_OldPackage\_AssetStore4.3\ToonLevelKit\Assets\Toon_Level_Kit\TLK-Medias\Models\Castle\Tower_01.FBX') [ (line 0)]
